@@ -6,6 +6,6 @@ public class Test {
 	}
 	
 	public String sayHello(String username) {
-		return  "this world has " + username + " 34323145213244";
+		return  "this world has " + username + " 343231..";
 	}
 }
