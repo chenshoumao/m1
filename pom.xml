@@ -5,9 +5,10 @@
 	<groupId>com</groupId>
 	<artifactId>m1</artifactId>
 	<packaging>jar</packaging>
-	<version>0.0.3</version>
+	<version>0.0.5</version>
 	<name>m1 Maven Webapp</name>
 	<dependencies>
+
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>

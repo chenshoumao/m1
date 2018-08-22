@@ -6,6 +6,6 @@ public class Test {
 	}
 	
 	public String sayHello(String username) {
-		return  "this world has " + username + " 343231..cscssc";
+		return  "this world has " + username + " 006";
 	}
 }
