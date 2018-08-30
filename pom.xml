@@ -24,12 +24,12 @@
     <repository>
       <id>release_user</id>
       <name>Release Deploy</name>
-      <url>http://192.168.36.136:8081/repository/maven-releases/</url>
+      <url>http://192.168.36.141:8082/repository/maven-releases/</url>
     </repository>
     <snapshotRepository>
       <id>snapshot_user</id>
       <name>Snapshot Deploy</name>
-      <url>http://192.168.36.136:8081/repository/maven-snapshots/</url>
+      <url>http://192.168.36.141:8082/repository/maven-snapshots/</url>
     </snapshotRepository>
   </distributionManagement>
 	
